@@ -1,0 +1,7 @@
+﻿  DriverManager.cpp
+D:\Coding\C\Windows 内核编程\DriverManager\DriverManager\DriverManager.cpp(323,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DriverManager.vcxproj -> D:\Coding\C\Windows 内核编程\DriverManager\x64\Release\DriverManager.exe
